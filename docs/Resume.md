@@ -1,6 +1,9 @@
 # SRINIVAS NAIDU PASYAVULA
 Baltimore, MD 21229 | (667) 391-9627 | srinivasnaidupasyavula@gmail.com | [LinkedIn](linkedin.com/in/srinivas-naidu-pasyavula)
 
+![Profile Picture](myImage.jpeg)
+
+
 ## EDUCATION
 ### University of Maryland Baltimore County (UMBC) 
 MPS, Data Science; GPA – 3.85/4.00  
