@@ -11,7 +11,7 @@ Dr. Chaojie (Jay) Wang
   - University ID - QC61851
   - Github - [Srinivas Naidu Pasyavula - Github](https://github.com/PasyavulaSrinivasNaidu/UMBC-DATA606-Capstone/)
   - LinkedIn - [Srinivas Naidu Pasyavula - LinkedIn](https://www.linkedin.com/in/srinivas-naidu-pasyavula/)
-  - Powerpoint Presentation - [Project Presentation File]()
+  - Powerpoint Presentation - [Project Presentation File](https://github.com/PasyavulaSrinivasNaidu/UMBC-DATA606-Capstone/blob/main/docs/Malaria%20Detection%20Presentation%20QC61851.pptx)
   - Youtube Video - [Project Presentation Video]()
 
 ## Background:
