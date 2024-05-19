@@ -14,7 +14,7 @@ Dr. Chaojie (Jay) Wang
   - **Github** - [Srinivas Naidu Pasyavula - Github](https://github.com/PasyavulaSrinivasNaidu/UMBC-DATA606-Capstone/)
   - **LinkedIn** - [Srinivas Naidu Pasyavula - LinkedIn](https://www.linkedin.com/in/srinivas-naidu-pasyavula/)
   - **Powerpoint Presentation** - [Project Presentation File](https://github.com/PasyavulaSrinivasNaidu/UMBC-DATA606-Capstone/blob/main/docs/Malaria%20Detection%20Presentation%20QC61851.pptx)
-  - **Youtube Video** - [Project Presentation Video]()
+  - **Youtube Video** - [Project Presentation Video](https://youtu.be/y-KCChLT2e0)
 
 # 2. Background
 Malaria, a life-threatening disease caused by Plasmodium parasites transmitted through the bite of infected mosquitoes, remains a significant global health challenge. Accurate and timely diagnosis is crucial for effective treatment and prevention of the spread of the disease. Traditional methods of malaria diagnosis, such as microscopic examination of blood smears, can be labor-intensive and require expertise, leading to delays in diagnosis and treatment.
