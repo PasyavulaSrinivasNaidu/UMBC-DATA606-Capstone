@@ -19,13 +19,13 @@ Dr. Chaojie (Jay) Wang
 # 2. Background
 Malaria, a life-threatening disease caused by Plasmodium parasites transmitted through the bite of infected mosquitoes, remains a significant global health challenge. Accurate and timely diagnosis is crucial for effective treatment and prevention of the spread of the disease. Traditional methods of malaria diagnosis, such as microscopic examination of blood smears, can be labor-intensive and require expertise, leading to delays in diagnosis and treatment.
 
-### What is it about?
+## 2.1. What is it about?
 The advancement of machine learning techniques, particularly convolutional neural networks (CNNs), offers promising opportunities for automated malaria diagnosis through image analysis. By leveraging CNNs, we can develop robust and efficient systems capable of detecting malaria parasites in blood smears with high accuracy and speed.
 
-### Why does it matter?
+## 2.2. Why does it matter?
 Automated malaria diagnosis using CNNs can revolutionize the way malaria is detected, particularly in resource-constrained regions where access to skilled healthcare professionals may be limited. By providing a rapid and reliable diagnostic tool, we can improve patient outcomes, reduce healthcare costs, and contribute to the global efforts to control and eliminate malaria.
 
-### What are your research questions?
+## 2.3. What are your research questions?
 1. How effective are CNNs in accurately classifying blood smear images as Parasitized (infected) or uninfected with malaria parasites?
 2. What is the impact of various CNN architectures and hyperparameters on the performance of malaria detection models?
 3. Can CNN-based malaria detection systems be deployed in real-world healthcare settings to enhance diagnosis and treatment outcomes?
